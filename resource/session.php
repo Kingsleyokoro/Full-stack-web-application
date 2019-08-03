@@ -1,0 +1,3 @@
+<?p
+session_start();
+?>
