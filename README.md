@@ -9,16 +9,17 @@ Your menu should provide links to other pages which you will also construct. Whi
 <ol>
   <li>
       A Main page that will welcome the customer to the site and provide links and menus to the other pages.
-    index.php</li>
-A “Contact Us” page that has information about how to phone, email, or go to the agency.
-contact.php
-A “Vacation Package” page listing all vacation packages available.
-packages.php
+    index.php
+  </li>
+<li>A “Contact Us” page that has information about how to phone, email, or go to the agency.
+contact.php</li>
+<li>A “Vacation Package” page listing all vacation packages available.
+packages.php</li>
 A “Customer Registration” page
 register.php
 registerform-js.php
 workshop 2 sql file:
-</o>
+</ol>
 travelexperts.sql
 A MySQL import script has been provided to set up a pre-built database for you to use. You are free to make any adjustments to the database that your application requires. You will need to use the following tables to enhance the web pages you developed earlier:
 
