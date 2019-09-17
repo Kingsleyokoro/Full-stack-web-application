@@ -15,10 +15,10 @@ Your menu should provide links to other pages which you will also construct. Whi
 contact.php</li>
 <li>A “Vacation Package” page listing all vacation packages available.
 packages.php</li>
-A “Customer Registration” page
+<li>A “Customer Registration” page
 register.php
 registerform-js.php
-workshop 2 sql file:
+workshop 2 sql file:</li>
 </ol>
 travelexperts.sql
 A MySQL import script has been provided to set up a pre-built database for you to use. You are free to make any adjustments to the database that your application requires. You will need to use the following tables to enhance the web pages you developed earlier:
