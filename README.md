@@ -19,8 +19,9 @@ packages.php</li>
 register.php
 registerform-js.php
 workshop 2 sql file:</li>
-</ol>
+
 travelexperts.sql
+</ol>
 A MySQL import script has been provided to set up a pre-built database for you to use. You are free to make any adjustments to the database that your application requires. You will need to use the following tables to enhance the web pages you developed earlier:
 
 Packages
