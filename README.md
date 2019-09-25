@@ -46,4 +46,4 @@ Re-design the contact page so that it is generated from the database and lists a
 
 When the package list is being generated, create an order button next to each package which will go to an order page that has a customer order form for that package. Customers will enter their data and submit the order which will result in creation of a customer record and a booking record. We know this is overly simplified, but at this point we are demonstrating that we can capture remote orders into the database to demonstrate the concept to the Travel Experts managers. order table
 
-If your team has 4 members, design an additional feature that you feel would be useful for the site.
+
