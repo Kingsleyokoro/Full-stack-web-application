@@ -1,5 +1,5 @@
 <?php
-// Author:Bachir Mahomad
+// Author:Okoro Ikenna
 // Date:01/08/2019
 // Functionality:Final Version
 // PHP include function used to divide the index page into multiple section     which include header that have the navigation bar, menu for the search, package, galley for the carousel of the different destination, discount section for the different discount section, and footer which include the info about the agency
